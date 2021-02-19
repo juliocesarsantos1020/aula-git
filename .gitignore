@@ -75,7 +75,7 @@ logs/
 .sts4-cache/
 
 ### Intellij ###
-
+*.iml
 # User-specific stuff
 .idea
 .idea/**/workspace.xml
